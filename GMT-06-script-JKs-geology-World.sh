@@ -1,3 +1,4 @@
+#!/bin/sh
 # Purpose: Geological map in Eckert VI equal-area pseudocylindrical projection (here: Pacific Ocean)
 # GMT modules: gmtset, gmtdefaults, pscoast, psxy, psbasemap, pslegend, logo, psconvert
 # Step-1. Generate file
